@@ -1,1 +1,7 @@
 meu primeiro git
+primeira alteração
+segunda alteração
+
+Agora para commitar na branch outra
+apenas para testar isso
+
